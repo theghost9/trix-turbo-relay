@@ -1,0 +1,1 @@
+{"dependencies":{"ws":"^8.18.0"},"description":"Persistent WebSocket relay for TRiX Turbo Browser — instant push routing between Muse and phone.","engines":{"node":">=18"},"license":"UNLICENSED","main":"server.js","name":"trix-turbo-relay","private":true,"scripts":{"start":"node server.js","test":"node test.js"},"version":"1.0.0"}
